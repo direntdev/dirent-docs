@@ -11,9 +11,7 @@
 
 ## Fundamentals
 
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
+* [Keybindings](fundamentals/keybindings.md)
 * [Tasks](fundamentals/tasks.md)
 
 ## Use Cases

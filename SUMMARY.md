@@ -5,12 +5,11 @@
 ## Guides
 
 * [Platform support](guides/platform-support.md)
-* [Architecture](guides/architecture.md)
 * [Command Palette](guides/command-palette.md)
+* [File system operations](guides/file-system-operations.md)
 
 ## Customization
 
-* [Custom commands](customization/custom-commands.md)
-* [Keyboard Shortcuts](customization/keyboard-shortcuts.md)
-* [Toolbar](customization/toolbar.md)
-* [Themes](customization/themes.md)
+* [Tabs and panels](customization/tabs-and-panels.md)
+* [Key Bindings](customization/key-bindings.md)
+* [Custom commands (PRO)](customization/custom-commands-pro.md)

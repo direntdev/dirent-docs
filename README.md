@@ -50,8 +50,8 @@ Follow our handy guides to get started on the basics as quickly as possible:
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
-{% content-ref url="customization/keyboard-shortcuts.md" %}
-[keyboard-shortcuts.md](customization/keyboard-shortcuts.md)
+{% content-ref url="customization/key-bindings.md" %}
+[key-bindings.md](customization/key-bindings.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
@@ -62,8 +62,8 @@ Learn the fundamentals of MyProduct to get a deeper understanding of our main fe
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="customization/toolbar.md" %}
-[toolbar.md](customization/toolbar.md)
+{% content-ref url="customization/custom-commands-pro.md" %}
+[custom-commands-pro.md](customization/custom-commands-pro.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}

@@ -1,15 +1,19 @@
 # Table of contents
 
-* [What is Dirent?](README.md)
+* [First Steps](README.md)
 
-## Guides
+## Files and Directories
 
-* [Platform support](guides/platform-support.md)
-* [Command Palette](guides/command-palette.md)
-* [File system operations](guides/file-system-operations.md)
+* [File Management](files-and-directories/file-management.md)
+* [Getting file info](files-and-directories/getting-file-info.md)
+* [Working with Archives](files-and-directories/working-with-archives.md)
+* [Search and Filters](files-and-directories/search-and-filters.md)
+* [Undo-Redo](files-and-directories/undo-redo.md)
 
 ## Customization
 
 * [Tabs and panels](customization/tabs-and-panels.md)
+* [Themes](customization/themes.md)
 * [Key Bindings](customization/key-bindings.md)
+* [Plugins (PRO)](customization/plugins-pro.md)
 * [Custom commands (PRO)](customization/custom-commands-pro.md)

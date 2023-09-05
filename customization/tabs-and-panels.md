@@ -1,2 +1,2 @@
-# Themes
+# Tabs and panels
 

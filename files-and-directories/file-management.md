@@ -1,11 +1,6 @@
----
-description: >-
-  In Dirent, managing your files and folders is a breeze thanks to the array of
-  features we offer. Whether you need to move files, duplicate them, or retrieve
-  their information, Dirent has you covered.
----
-
 # File Management
+
+In Dirent, managing your files and folders is a breeze thanks to the array of features we offer. Whether you need to move files, duplicate them, or retrieve their information, Dirent has you covered.
 
 ## Copy
 

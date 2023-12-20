@@ -1,12 +1,14 @@
 # Navigation
 
-There are several efficient methods to navigate between locations within Dirent:
+There are several efficient methods to navigate between locations within Dirent.
 
 ## **Go To Location**
 
-This is likely your quickest option. Simply press the specified shortcut (CMD+P by default), or click on "Go To Location" in the toolbar. A palette with various options will appear. From there, you can select your desired location and press "Enter" to navigate. The options include:\
-\
-![](<../.gitbook/assets/CleanShot 2023-12-20 at 22.44.52@2x.png>)
+This is likely your quickest option. Simply press the specified shortcut (CMD+P by default), or click on "Go To Location" in the toolbar. A palette with various options will appear. From there, you can select your desired location and press "Enter" to navigate.&#x20;
+
+<figure><img src="../.gitbook/assets/CleanShot 2023-12-20 at 22.44.52@2x.png" alt=""><figcaption></figcaption></figure>
+
+The options include:
 
 * **All**: Navigate to any location within the app.
 * **Tabs**: Directly jump to any open tab.

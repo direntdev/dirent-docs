@@ -4,7 +4,7 @@
 
 Dirent is a powerful file management tool, designed to enhance your productivity. This documentation serves as your complete guide to the features and functionalities Dirent offers.
 
-<figure><img src=".gitbook/assets/CleanShot 2023-12-20 at 22.16.16@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/CleanShot 2023-12-20 at 22.16.16@2x (2).png" alt=""><figcaption></figcaption></figure>
 
 ### **Toolbar**
 

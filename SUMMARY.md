@@ -12,5 +12,9 @@
 
 * [Tabs and panels](customization/tabs-and-panels.md)
 * [Key Bindings](customization/key-bindings.md)
-* [Toolbar](customization/toolbar.md)
 * [Themes](customization/themes.md)
+* [Toolbar](customization/toolbar.md)
+
+## Security
+
+* [Permissions (MacOS AppStore)](security/permissions-macos-appstore.md)

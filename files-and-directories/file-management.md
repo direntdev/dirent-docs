@@ -11,8 +11,6 @@ description: >-
 
 #### Overview
 
-![](<../.gitbook/assets/CleanShot 2023-12-20 at 22.39.48@2x (1).png>)
-
 The "Copy Items" command clones selected files or folders from the active tab to another tab within Dirent. A progress dialog will appear to show how much has already been copied and whether the operation was successful. If any files encounter issues during the copy process, you'll be prompted to decide whether you want to continue or abort the operation.
 
 #### Simple Copy

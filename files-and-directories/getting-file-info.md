@@ -1,2 +1,0 @@
-# Getting file info
-

@@ -11,8 +11,8 @@
 ## Customization
 
 * [Tabs and panels](customization/tabs-and-panels.md)
-* [Key Bindings](customization/key-bindings.md)
 * [Themes](customization/themes.md)
+* [Key Bindings](customization/key-bindings.md)
 * [Toolbar](customization/toolbar.md)
 
 ## Security

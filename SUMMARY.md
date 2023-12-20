@@ -10,7 +10,6 @@
 
 ## Customization
 
-* [Tabs and panels](customization/tabs-and-panels.md)
 * [Themes](customization/themes.md)
 * [Key Bindings](customization/key-bindings.md)
 * [Toolbar](customization/toolbar.md)

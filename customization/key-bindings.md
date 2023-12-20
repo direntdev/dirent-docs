@@ -6,9 +6,9 @@ Keybindings are an essential aspect of Dirent that significantly enhance your ef
 
 When you launch Dirent, you have the choice to select a base keymap style that matches your familiarity with other file management applications. You can always change this selection later in app Settings. The available options are:
 
-1. **Finder:** The Finder keymap is ideal for users who are accustomed to macOS's Finder application. It offers keybindings that mirror the keyboard shortcuts commonly used in Finder for file navigation and management.
-2. **Commander (Total Commander):** This keymap option is tailored for users who are familiar with the keyboard shortcuts in file managers like Total Commander. It includes keybindings resembling those found in these traditional file management tools.
-3. **Code:** This keymap option is designed for users accustomed to code editors and integrated development environments (IDEs). It incorporates keybindings commonly used in programming environments to streamline navigation and manipulation of files.
+1. **Default:** This keymap option is designed for users accustomed to code editors and integrated development environments (IDEs). It incorporates keybindings commonly used in programming environments to streamline navigation and manipulation of files.
+2. **Finder:** The Finder keymap is ideal for users who are accustomed to macOS's Finder application. It offers keybindings that mirror the keyboard shortcuts commonly used in Finder for file navigation and management.
+3. **Commander (Total Commander):** This keymap option is tailored for users who are familiar with the keyboard shortcuts in file managers like Total Commander. It includes keybindings resembling those found in these traditional file management tools.
 
 **Accessing Keybindings Preferences**
 
@@ -40,9 +40,7 @@ If at any point, you wish to return to the original keybindings, click the "Rese
 
 
 
-**Available commands**\
-\
-
+**Available commands**
 
 | Action-Keymap                         | Finder | Commander | Code   |
 | ------------------------------------- | ------ | --------- | ------ |

@@ -7,7 +7,7 @@ description: >-
 
 # File Management
 
-### Copy
+## Copy
 
 #### Overview
 
@@ -28,7 +28,7 @@ You can also drag and drop files between tabs, directories, or even from Finder 
 2. Drag and drop them into another tab, directory, or the tab header.
 3. The files will be copied accordingly.
 
-### Copy/Paste from Clipboard
+## Copy/Paste from Clipboard
 
 #### Overview
 
@@ -38,7 +38,7 @@ You can copy files to the clipboard and then paste them either in another Dirent
 2. Right-click and select "Copy" to move the files to the clipboard.
 3. Right-click in another tab or in a Finder directory and select "Paste."
 
-### Duplicate Files
+## Duplicate Files
 
 #### Overview
 
@@ -49,7 +49,7 @@ Duplicating files is made easy in Dirent. A dialog will appear to preview the na
 3. Review the file names in the dialog that appears.
 4. Click "Duplicate" to confirm.
 
-### Delete Files
+## Delete Files
 
 #### Overview
 
@@ -60,7 +60,7 @@ Dirent offers two kinds of deletion methods:
 
 You can configure the default deletion method in the Settings menu. Each time you perform a delete operation, you'll have the option to switch methods in the Delete dialog.
 
-### Rename/Change Path
+## Rename/Change Path
 
 #### Simple Rename
 
@@ -74,7 +74,7 @@ Renaming files is straightforward:
 
 This advanced feature allows you to modify a file's location, name, and extension all at once. If the destination folder doesn't exist, it will be created automatically.
 
-### Create File/Directory
+## Create File/Directory
 
 #### Creating a New File
 

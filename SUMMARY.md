@@ -17,4 +17,4 @@
 
 ## Security
 
-* [Permissions (MacOS AppStore)](security/permissions-macos-appstore.md)
+* [Permissions](security/permissions.md)

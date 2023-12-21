@@ -15,7 +15,7 @@ The options include:
 * **Favorite**: Access your favorite locations with ease. You can add or remove locations from your favorites by right-clicking on a tab.
 * **Recent**: Revisit locations you've previously opened. The number of remembered locations can be adjusted in the Settings.
 
-## With Keyboard/Mouse
+## Keyboard/Mouse
 
 The specific commands here are based on the "Keymap" you select in Settings. By default:
 

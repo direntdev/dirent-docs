@@ -10,7 +10,7 @@ Dirent is a powerful file management tool, designed to enhance your productivity
 
 The Toolbar is a customizable space where you can place your favorite actions. You have the flexibility to add or remove actions and hide the toolbar if you prefer. All adjustments, including which actions are visible, can be made in the Settings.
 
-### **Tabs**:
+### **Tabs**
 
 Tabs in the app represent different locations on your system. You have the freedom to add as many tabs as you like, personalizing each with a specific name and tag for easy identification and navigation.
 
